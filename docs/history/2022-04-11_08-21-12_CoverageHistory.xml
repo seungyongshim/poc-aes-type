@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage version="1.0" date="2022-04-11_08-21-12" tag="6_2147224979">
+  <assembly name="Common">
+    <class name="Common.Aes256" coveredlines="9" coverablelines="9" totallines="37" coveredbranches="0" totalbranches="0" coveredcodeelements="1" totalcodeelements="1" />
+    <class name="Common.Aes256`1" coveredlines="15" coverablelines="15" totallines="37" coveredbranches="0" totalbranches="0" coveredcodeelements="4" totalcodeelements="4" />
+    <class name="Common.AesKey" coveredlines="2" coverablelines="2" totallines="8" coveredbranches="0" totalbranches="0" coveredcodeelements="2" totalcodeelements="2" />
+  </assembly>
+</coverage>
