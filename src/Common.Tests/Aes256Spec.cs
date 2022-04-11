@@ -25,6 +25,7 @@ public class Aes256Spec
 
         var payload = JsonSerializer.Serialize(sut);
 
+        Output.WriteLine($"{key}");
         Output.WriteLine($"{payload}");
 
         var receive = JsonSerializer.Deserialize<HelloE>(payload)!;
